@@ -1,0 +1,17 @@
+
+
+# create console app. ==>  to save books in library
+    menu
+        1- add book
+            --> ask you about bookid, title, price, no_of_pages, author
+            1:abc:100:199:ahmed
+            {id:1, name:dd, }
+        2- get all books
+            --> display all books in the system
+
+00> use files to save the data -->
+
+
+--> don't forget to use try, except
+
+-> don't forget to use append mode ??
